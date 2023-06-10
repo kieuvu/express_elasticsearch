@@ -1,0 +1,19 @@
+{
+  "name": "elasticsearch-expts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kieuvu/elasticsearch-expts.git"
+  },
+  "author": "vukm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kieuvu/elasticsearch-expts/issues"
+  },
+  "homepage": "https://github.com/kieuvu/elasticsearch-expts#readme"
+}
