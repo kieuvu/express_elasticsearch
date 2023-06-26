@@ -1,3 +1,4 @@
 import AppConfig from "./AppConfig";
+import ElasticSearchConfig from "./ElasticSearchConfig";
 
-export { AppConfig };
+export { AppConfig, ElasticSearchConfig };
